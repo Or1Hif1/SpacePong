@@ -57,6 +57,7 @@ ButtonLost = pygame.image.load('Images/YouLostRealSize.png')
 timer = 0
 ticks = 1
 runningLost = False
+saba = 1
 
 
 checkIsStart = True
